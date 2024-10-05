@@ -1,0 +1,1 @@
+{"name":"Local: 31_Next_Permutation","url":"f:\\CodeC\\CP\\LeetCode\\Array\\31_Next_Permutation.cpp","tests":[{"id":1727624354995,"input":"3\n1 1 5","output":""},{"id":1727624974770,"input":"2\n1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CodeC\\CP\\LeetCode\\Array\\31_Next_Permutation.cpp","group":"local","local":true}
