@@ -1,0 +1,1 @@
+{"name":"Local: 85","url":"f:\\CodeC\\CP\\LeetCode\\Dynamic Programming\\85. Maximal Rectangle.cpp","tests":[{"id":1735657865243,"input":"3 7\n0 0 0 1 0 0 0 \n0 0 1 1 1 0 0 \n0 1 1 1 1 1 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CodeC\\CP\\LeetCode\\Dynamic Programming\\85. Maximal Rectangle.cpp","group":"local","local":true}
